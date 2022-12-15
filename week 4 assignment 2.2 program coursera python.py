@@ -2,7 +2,7 @@
       Enter Sarah in the pop-up box when you are prompted so your output will match the desired output.
       
       
-      code for thre following:
+ code for thre following:
       
 name = input("Enter your name")
 
