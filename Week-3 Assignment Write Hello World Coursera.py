@@ -7,7 +7,6 @@ hello world
 # the code below almost works
 # python basic program
 
-
 print("hello world")
 
 Your Output:
